@@ -1,1 +1,3 @@
-rootProject.name = 'notepad'
+rootProject.name = 'workpad'
+include 'groovy'
+
